@@ -1,1 +1,1 @@
-python:allpine3.19
+jenkins/jenkins
